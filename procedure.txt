@@ -1,0 +1,15 @@
+git init
+
+git status
+
+# Update content in readme file
+
+git status
+
+git add .
+
+git status
+
+git commit -m "enter your msg"
+
+git push origin main
